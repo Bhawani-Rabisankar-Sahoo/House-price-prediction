@@ -27,3 +27,8 @@ Predicting the best possible price for a house based on  various parameters .
 - If we  plot  a  scatter polt with longitude on the x-axis and latitude  on the y-axis with the hue  as 'median_house_value' with the price of the hoses increases as the colour changes  from blue to red.
 - We can clearly see that the price of the houses are significantly higher in the coastal areas as we can see from the scatter plot the near  to Ocean houses are mostly red and the inland houses are mostly blue.
 ![Screenshot (31)](https://github.com/Bhawani-Rabisankar-Sahoo/House-price-prediction/assets/72175654/3d4a3c79-2795-4dac-bf16-627e1e56f67d)
+
+## Model results
+
+- I've trained a Random Forest Regressor model which successfully predicted the 'median_house_price' of the houses with score of **93.1%** .
+
