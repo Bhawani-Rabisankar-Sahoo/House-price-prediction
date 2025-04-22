@@ -30,5 +30,5 @@ Predicting the best possible price for a house based on  various parameters .
 
 ## Model results
 
-- I've trained a Random Forest Regressor model which successfully predicted the 'median_house_price' of the houses with score of **93.1%** .
+- I've trained a Random Forest Regressor model which successfully predicted the 'median_house_price' of the houses with score of **81.5%** .
 
